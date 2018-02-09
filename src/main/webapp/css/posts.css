@@ -1,0 +1,21 @@
+
+#filter td    {padding: 6px;}
+#feed td {
+    padding-bottom: 50px;
+    padding-left: 200px;
+}
+#feed tr{
+    width: 100%;
+}
+a{
+    color:#000;
+    text-decoration: none;
+
+}
+a:hover{
+    text-decoration: none;
+}
+.post-img{
+    max-width: 250px;
+    max-height: 250px;
+}
